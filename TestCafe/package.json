@@ -1,0 +1,11 @@
+{
+  "name": "testcafe",
+  "version": "1.0.0",
+  "description": "test_cafe_course",
+  "main": "test1.js",
+  "scripts": {
+  "test-all-chrome": "testcafe chrome ./page_model/Tests"
+  },
+  "author": "Jose de Jesus Sepulveda Cisneros",
+  "license": "ISC"
+}
